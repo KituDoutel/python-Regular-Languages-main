@@ -30,6 +30,6 @@ Programa ne’e uza ekspresaun regular (regex) atu **valida email** no **nomor t
 
 ### Klona no roda
 ```bash
-git clone https://github.com/KituDoutel/validasaun-regex.git
+git clone https://github.com/KituDoutel/validasaun.git
 cd validasaun-regex
 python valida.py
